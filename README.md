@@ -7,10 +7,15 @@
 
 React App is the first time I used 
 
-### Install
+### Install (first time)
 * Official: https://create-react-app.dev/docs/adding-typescript/
-1- npm install -g create-react-ap
-2- npx create-react-app my-app --template typescript
+
+`npm install -g create-react-ap`
+
+`npx create-react-app my-app --template typescript`
+
+* Install (for use)
+`npm install`
 
 ### Execute and Oficial Information
 
